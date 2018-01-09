@@ -2,7 +2,7 @@
   "name": "miv",
   "version": "0.0.1",
   "description": "Build agile web component library",
-  "main": "Miv.js",
+  "main": "miv.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,6 +12,10 @@
     "JavaScript",
     "Web"
   ],
-  "author": "Sims Hong",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xmjomax/miv.git"
+  },
+  "author": "xmjomax",
   "license": "MIT"
 }
