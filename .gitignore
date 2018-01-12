@@ -4,6 +4,7 @@ node_modules
 dist/*.gz
 dist/*.map
 dist/*.js
+src
 TODOs.md
 .vscode
 .idea
